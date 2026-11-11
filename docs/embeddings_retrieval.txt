@@ -1,0 +1,9 @@
+An embedding is a list of numbers that represents the meaning of a piece of text. Texts with similar meanings end up close together in vector space.
+ 
+Cosine similarity and distance metrics measure how close two embeddings are. A smaller distance means the texts are more similar in meaning.
+ 
+Chunking splits long documents into smaller pieces before embedding them. Smaller chunks give more precise matches, but each chunk has less surrounding context.
+ 
+A vector database such as ChromaDB stores embeddings alongside the original text and metadata, and supports filtering results with a where clause.
+ 
+ 

@@ -1,0 +1,8 @@
+A stack operates on a Last-In, First-Out (LIFO) basis, like a stack of plates. The most recently added element is the first one removed.
+ 
+A queue operates on a First-In, First-Out (FIFO) principle, like a line of people waiting for a service.
+ 
+A dictionary is a collection of key-value pairs that lets you look up values by key in constant time on average.
+ 
+Big O notation describes how the number of operations your code performs grows with the size of the input.
+ 

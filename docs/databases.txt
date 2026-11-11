@@ -1,0 +1,8 @@
+A relational database splits data into separate, purpose-built tables that reference each other.
+ 
+A primary key is a column or combination of columns that uniquely identifies each row in a table.
+ 
+A foreign key is a column in one table that references the primary key of another table. This is how relationships between tables are expressed.
+ 
+SQL JOIN statements combine rows from two or more tables based on a related column, such as matching a foreign key to a primary key.
+ 
